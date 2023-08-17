@@ -1,3 +1,4 @@
 Testando o Git com a turma B							aula do professor Enoque
-
 Tudo funcionando corretamente!
+
+A turma está aprendendo!
